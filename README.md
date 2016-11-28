@@ -2,4 +2,4 @@
 
 ## How to use
 
-Add `monokai-cobalt2` to `plugins` in `~/.hyperterm.js`.
+Add `hyper-monokai-cobalt2` to `plugins` in `~/.hyperterm.js`.
